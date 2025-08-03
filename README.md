@@ -1,13 +1,9 @@
 # Predict_Introverts_from_Extroverts_Kaggle
 Code and experiments for Kaggle Playground Series S5E7 – Predict the Introverts from the Extroverts. Includes EDA, feature engineering, and a tuned RandomForest baseline that achieves competitive log-loss on the public leaderboard, plus reproducible pipeline and submission scripts.
 
-description = ("Code and experiments for Kaggle Playground Series S5E7 – Predict the Introverts from the Extroverts. "
-               "Includes EDA, feature engineering, and a tuned RandomForest baseline that achieves competitive "
-               "log‑loss on the public leaderboard, plus reproducible pipeline and submission scripts.")
 
-readme = textwrap.dedent("""\
-    # Kaggle Playground Series – Season 5, Episode 7  
-    ## Predict the Introverts from the Extroverts
+# Kaggle Playground Series – Season 5, Episode 7  
+## Predict the Introverts from the Extroverts
     
   This repository contains all code, notebooks, and documentation for my participation in Kaggle’s **Playground Series – S5E7** competition. The challenge is to classify whether a subject is an *introvert* or an *extrovert* given synthetic behavioural and personality features. The competition uses **log‑loss** as the evaluation metric.
     
