@@ -8,11 +8,7 @@ Code and experiments for Kaggle Playground Series S5E7 – Predict the Introvert
 This repository contains all code, notebooks, and documentation for my participation in Kaggle’s **Playground Series – S5E7** competition. The challenge is to classify whether a subject is an *introvert* or an *extrovert* given synthetic behavioural and personality features. The competition uses **log‑loss** as the evaluation metric.
     
 ### Contents
-* `PlayGround_Series_S5_E7.ipynb` – complete EDA, feature engineering, model training, and submission workflow.  
-* `src/` – reusable Python modules (`data_loader.py`, `preprocess.py`, `train.py`, `predict.py`).  
-* `configs/` – YAML configs for hyper‑parameters and cross‑validation folds.  
-* `requirements.txt` – python dependencies.  
-* `output/` – trained model artefacts and generated `submission.csv`.
+* `PlayGround_Series_S5_E7.ipynb` – complete EDA, feature engineering, model training, and submission workflow.
 
 ### Quick Start
 ```bash
