@@ -20,7 +20,7 @@ readme = textwrap.dedent("""\
 
 ### Quick Start
 ```bash
-git clone https://github.com/<your‑handle>/kaggle‑ps‑s5e7.git
+git clone https://github.com/omkarganda/Predict_Introverts_from_Extroverts_Kaggle.git
 cd kaggle‑ps‑s5e7
 
 # create environment
