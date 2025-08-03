@@ -5,7 +5,7 @@ Code and experiments for Kaggle Playground Series S5E7 – Predict the Introvert
 # Kaggle Playground Series – Season 5, Episode 7  
 ## Predict the Introverts from the Extroverts
     
-  This repository contains all code, notebooks, and documentation for my participation in Kaggle’s **Playground Series – S5E7** competition. The challenge is to classify whether a subject is an *introvert* or an *extrovert* given synthetic behavioural and personality features. The competition uses **log‑loss** as the evaluation metric.
+This repository contains all code, notebooks, and documentation for my participation in Kaggle’s **Playground Series – S5E7** competition. The challenge is to classify whether a subject is an *introvert* or an *extrovert* given synthetic behavioural and personality features. The competition uses **log‑loss** as the evaluation metric.
     
 ### Contents
 * `PlayGround_Series_S5_E7.ipynb` – complete EDA, feature engineering, model training, and submission workflow.  
