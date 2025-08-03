@@ -38,6 +38,5 @@ git clone https://github.com/omkarganda/Predict_Introverts_from_Extroverts_Kaggl
 
 ### Acknowledgements
 Thanks to the Kaggle community for inspiration, and to **Kaggle** for hosting the Playground Series.
-""")
 
 
